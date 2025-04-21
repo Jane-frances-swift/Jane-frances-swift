@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Okure
+- 👋 Hi, I’m Jane-Frances
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning mobile app development, swift in particular
   
