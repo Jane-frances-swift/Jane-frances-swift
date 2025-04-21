@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jane-frances-swift
+- 👋 Hi, I’m Okure
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning mobile app development, swift in particular
   
-- 📫 How to reach me; whatsapp: 08021205189, Email: janefrancesokure47@gmail.com
+- 📫 How to reach me; Email: janefrancesokure47@gmail.com
 - 😄 Pronouns: She, Her
 
 
