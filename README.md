@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jane-Frances
-- 👀 I’m interested in coding
+  
 - 🌱 I’m currently learning mobile app development, swift in particular
   
 - 📫 How to reach me; Email: janefrancesokure47@gmail.com
